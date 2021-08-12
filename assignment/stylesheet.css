@@ -1,0 +1,19 @@
+header {
+  background-color: darkblue;
+  color: antiquewhite;
+  text-align: center;
+}
+
+.main {
+  background-color: lightgrey;
+  padding: 1em;
+  border-style:dotted solid double;
+  border-color: maroon;
+  border-width: 20px;
+}
+
+body{
+  background-image: url('record.png');
+  background-repeat: repeat;
+  margin: 0;
+}
